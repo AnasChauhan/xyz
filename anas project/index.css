@@ -1,0 +1,118 @@
+body {
+    text-align: center;
+    }
+    h1 {
+    color: rgba(255,255,255,1) ;
+    font-family: cursive;
+    background-image: linear-gradient(to right, rgba(2, 19, 248, 0.5),rgba(76, 2, 248, 0.753));
+    border-radius: 40px;
+    }
+    div {
+    font-size: 40px;
+    padding: 50px;
+    border: 30px;
+    border-color: limegreen;
+    margin: 20px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    }
+    #one {
+    background-color: rgba(0,0,255,0.5);
+    font-family:cursive;
+    color: rgb(255, 255, 255);
+    }
+    #two {
+    background-color: rgba(0,0,255,0.5);
+    font-family:cursive;
+    color: rgb(255, 255, 255);
+    }
+    #yt {
+    background-color: rgba(0,0,255,0.5);
+    font-family: fantasy;
+    color: white;
+    }
+    
+#about{
+background-color: rgba(192,192,192,0.5);
+font-size:medium;
+text-align:justify;
+font-family: fantasy;
+-webkit-text-stroke-width:0px ;
+color: rgb(0, 0, 0);
+}
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+ margin-right: 99999999px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.show {display:block;}
+#link1{
+  background-color: rgba(0,0,255,0.5);
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+#link2{
+  background-color: rgba(0,0,255,0.5);
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+#link3{
+  background-color: rgba(0,0,255,0.5);
+    color: rgb(255, 255, 255);
+    font-family:cursive;
+}
+#link4{
+  background-color: rgba(0,0,255,0.5);
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+  }
+    
+#link5{
+  background-color: rgba(0,0,255,0.5);
+  color: rgb(255, 255, 255);
+    font-family:fantasy;
+  }
+    
+#link6{
+  background-color: rgba(0,0,255,0.5);
+    color: rgb(255, 255, 255);
+    font-family:fantasy;
+  }
+    
+#link7{
+  background-color: rgba(0,0,255,0.5);
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+    }
+#link8{
+  background-color: rgba(0,0,255,0.5);
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+  } 
